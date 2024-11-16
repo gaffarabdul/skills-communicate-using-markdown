@@ -13,3 +13,6 @@ public class Test {
   private String x = "Hello";
 }
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
